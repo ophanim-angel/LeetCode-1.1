@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0120-triangle) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Stack
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Trie
 |  |
