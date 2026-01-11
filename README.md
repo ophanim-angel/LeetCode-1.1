@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0027-remove-element) |
+| [0085-maximal-rectangle](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0120-triangle) |
 | [0217-contains-duplicate](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0219-contains-duplicate-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0120-triangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Math
 |  |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0085-maximal-rectangle) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
