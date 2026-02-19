@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0693-binary-number-with-alternating-bits](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0693-binary-number-with-alternating-bits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
 |  |
