@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/ophanim-angel/LeetCode-1.1/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0120-triangle) |
 | [0217-contains-duplicate](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0217-contains-duplicate) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ophanim-angel/LeetCode-1.1/tree/master/0048-rotate-image) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/2288-count-operations-to-obtain-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ophanim-angel/LeetCode-1.1/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0085-maximal-rectangle) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
